@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddhika Bishnoi  
 
-<!--
-**SiddhikaBishnoi276/SiddhikaBishnoi276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Student | 🌱 Learning Java & Web Development | 🎨 Creative Thinker  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Tech Stack  
+🚀 Java  
+🌐 HTML  
+🎨 CSS  
+🗃️ MySQL  
+🧰 Git & GitHub  
+
+
+## 🎯 About Me  
+✨ Curious learner exploring programming and creative coding ideas.  
+💡 Completed a Java Console Project – Indian Railways Reservation System.  
+📚 Currently learning DBMS, HTML, CSS, and Java as part of my BCA journey.  
+🤝 I love mixing creativity with coding and building simple, useful projects.  
+
+
+## 🌐 Connect with Me  
+📧 Email – [bishnoisiddhika@gmail.com](mailto:bishnoisiddhika@gmail.com)  
+🔗 LinkedIn – [linkedin.com/in/siddhika-bishnoi](https://linkedin.com/in/siddhika-bishnoi)  
+💻 GitHub – [github.com/SiddhikaBishnoi276](https://github.com/SiddhikaBishnoi276)  
+
+ 
+"Keep learning, keep creating, and stay curious!" 🌸  
